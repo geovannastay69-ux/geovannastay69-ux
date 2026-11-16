@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1> Oiii, meu nome é Geovanna</h1>
 
-<!--
-**geovannastay69-ux/geovannastay69-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###🎓Formação🎓
+Sou estudante do curso de Desenvolvimento de sistemas
+- Estudando atualmente no segundo ano do ensino médio
+- Cursando o curso Desenvolvimento de sistemas
+- Pretendo fazer faculdade de medicina veterinária
 
-Here are some ideas to get you started:
+- ### Habilidades
+ 
+  [![Python](https://img.shields.io/badge/Python-4584b6?style=plastic)](#)
+  [![Habilidadetécnica](https://img.shields.io/badge/Habilidadetécnica-276dc2?style=plastic)](#)
+  [![Softskills](https://img.shields.io/badge/Softskills-333?style=plastic)(#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
